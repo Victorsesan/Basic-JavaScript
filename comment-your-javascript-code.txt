@@ -1,2 +1,6 @@
+Step one comment on my js code
+
+
+solution
 //This is an Inline-Comment
 /* This is a Multi-line Comment */
