@@ -1,5 +1,0 @@
-Sttep 2 declaring js varaibles
-
-solution
-var myName;
-
