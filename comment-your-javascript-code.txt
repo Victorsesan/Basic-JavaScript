@@ -1,0 +1,2 @@
+//This is an Inline-Comment
+/* This is a Multi-line Comment */
